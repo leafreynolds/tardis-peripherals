@@ -19,4 +19,4 @@ Let the project finish importing, it will automatically download all required de
 ### Issues:
 Please direct all bugs and feature requests towards the repo issue tracker.
 
-Any other questions can be asked at the discord: [![](https://img.shields.io/discord/723985013736996924.svg?color=purple&label=Discord&style=flat-square)](https://discord.gg/nj6rnQqdc8)
+Any other questions can be asked at the discord: [![](https://img.shields.io/discord/723985013736996924.svg?color=purple&label=Discord&style=flat-square)](https://discord.gg/Xh2cDWWjrn)
